@@ -1,0 +1,101 @@
+body {
+  background-color: black;
+}
+
+div {
+  background-color: #191919;
+  height: 530px;
+  width: 320px;
+  color: white;
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-left: 200px;
+  text-align: center;
+}
+
+img {
+  width: 100px;
+  border-radius: 50px;
+  margin-top: 40px;
+}
+
+.OLA {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20.75px;
+  
+}
+
+.Lagos {
+  margin-top: -10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(169, 189, 110);
+}
+
+p {
+  font-size: 12.85px;
+}
+
+.Git {
+  padding: 12px 100px;
+  margin-bottom: 15px;
+  background-color: #353434;
+  border-radius: 8px;
+  box-shadow: none;
+  border-width: 0px;
+  opacity: 98px;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 10.55px;
+}
+
+.FM {
+  padding: 12px 78px;
+  margin-bottom: 15px;
+  background-color: #353434;
+  border-radius: 8px;
+  box-shadow: none;
+  border-width: 0px;
+  opacity: 98px;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 10.55px;
+}
+
+.L {
+  padding: 12px 96px;
+  margin-bottom: 15px;
+  background-color: #353434;
+  border-radius: 8px;
+  box-shadow: none;
+  border-width: 0px;
+  opacity: 98px;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 10.55px;
+}
+
+.T{
+  padding: 12px 99px;
+  margin-bottom: 15px;
+  background-color: #353434;
+  border-radius: 8px;
+  box-shadow: none;
+  border-width: 0px;
+  opacity: 98px;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 10.55px;
+}
+.insta{
+  padding: 12px 93px;
+  margin-bottom: 15px;
+  background-color: #353434;
+  border-radius: 8px;
+  box-shadow: none;
+  border-width: 0px;
+  opacity: 98px;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 10.55px;
+}
+
